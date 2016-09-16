@@ -1,4 +1,4 @@
-# ${1:Quick Ask}
+###Quick Ask
 
   A survey app where users may create surveys and send the link to the people they wish to collect answers from. 
 
